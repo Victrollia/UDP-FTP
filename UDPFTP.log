@@ -1,0 +1,242 @@
+2020-04-24 18:08:26 INFO Log started for: Server.main
+2020-04-24 18:08:26 INFO [Server.main] Starting
+2020-04-24 18:08:26 INFO [Server.main] Skipping First Packet in Window: false
+2020-04-24 18:08:26 INFO [Server.main] Skipping All Packets in Window:  false
+2020-04-24 18:08:26 INFO [Server.UDP] Sstarting Server on Port: 2015
+2020-04-24 18:09:39 INFO Log started for: Server.main
+2020-04-24 18:09:39 INFO [Server.main] Starting
+2020-04-24 18:09:39 INFO [Server.main] Skipping First Packet in Window: false
+2020-04-24 18:09:39 INFO [Server.main] Skipping All Packets in Window:  false
+2020-04-24 18:09:39 INFO [Server.UDP] Sstarting Server on Port: 2015
+2020-04-25 18:03:33 INFO Log started for: Server.main
+2020-04-25 18:03:33 INFO [Server.main] Starting
+2020-04-25 18:03:33 INFO [Server.main] Skipping First Packet in Window: false
+2020-04-25 18:03:33 INFO [Server.main] Skipping All Packets in Window:  false
+2020-04-25 18:03:33 INFO [Server.UDP] Sstarting Server on Port: 2015
+2020-04-25 18:17:23 INFO Log started for: Server.main
+2020-04-25 18:17:23 INFO [Server.main] Starting
+2020-04-25 18:17:23 INFO [Server.main] Skipping First Packet in Window: false
+2020-04-25 18:17:23 INFO [Server.main] Skipping All Packets in Window:  false
+2020-04-25 18:17:23 INFO [Server.UDP] Sstarting Server on Port: 2015
+2020-04-25 18:18:10 INFO Log started for: Client.Main
+2020-04-25 18:18:10 INFO [Client.Main] Receiver started
+2020-04-25 18:22:11 INFO Log started for: Client.Main
+2020-04-25 18:22:11 INFO [Client.Main] Receiver started
+2020-04-25 18:22:29 INFO Log started for: Server.main
+2020-04-25 18:22:29 INFO [Server.main] Starting
+2020-04-25 18:22:29 INFO [Server.main] Skipping First Packet in Window: false
+2020-04-25 18:22:29 INFO [Server.main] Skipping All Packets in Window:  false
+2020-04-25 18:22:29 INFO [Server.UDP] Sstarting Server on Port: 2015
+2020-04-26 08:47:07 INFO Log started for: Client.Main
+2020-04-26 08:47:07 INFO [Client.Main] Receiver started
+2020-04-26 08:47:18 INFO Log started for: Client.Main
+2020-04-26 08:47:18 INFO [Client.Main] Receiver started
+2020-04-26 08:48:23 INFO Log started for: Server.main
+2020-04-26 08:48:23 INFO [Server.main] Starting
+2020-04-26 08:48:23 INFO [Server.main] Skipping First Packet in Window: false
+2020-04-26 08:48:23 INFO [Server.main] Skipping All Packets in Window:  false
+2020-04-26 08:48:23 INFO [Server.UDP] Sstarting Server on Port: 2015
+2020-04-26 09:14:33 INFO [Server.UDP] Received   <----- REQ packet for file: Readme.txt
+2020-04-26 09:14:33 INFO [Server.UDP] Established connection with: /127.0.0.1, Port:62181
+2020-04-26 09:14:48 INFO Log started for: Server.main
+2020-04-26 09:14:48 INFO [Server.main] Starting
+2020-04-26 09:14:48 INFO [Server.main] Skipping First Packet in Window: false
+2020-04-26 09:14:48 INFO [Server.main] Skipping All Packets in Window:  false
+2020-04-26 09:14:48 INFO [Server.UDP] Sstarting Server on Port: 2015
+2020-04-26 09:15:32 INFO [Server.UDP] Received   <----- REQ packet for file: readme.txt
+2020-04-26 09:15:32 INFO [Server.UDP] Established connection with: /127.0.0.1, Port:54835
+2020-04-26 09:20:26 INFO Log started for: Server.main
+2020-04-26 09:20:26 INFO [Server.main] Starting
+2020-04-26 09:20:26 INFO [Server.main] Skipping First Packet in Window: false
+2020-04-26 09:20:26 INFO [Server.main] Skipping All Packets in Window:  false
+2020-04-26 09:20:26 INFO [Server.UDP] Sstarting Server on Port: 2015
+2020-04-26 09:20:41 INFO [Server.UDP] Received   <----- REQ packet for file: readme.txt
+2020-04-26 09:20:41 INFO [Server.UDP] Established connection with: /127.0.0.1, Port:51812
+2020-04-26 09:20:41 INFO [Server.Sender] Sending File: readme.txt, Size: 223(bytes)
+2020-04-26 09:42:16 INFO Log started for: Server.main
+2020-04-26 09:42:16 INFO [Server.main] Starting
+2020-04-26 09:42:16 INFO [Server.main] Skipping First Packet in Window: false
+2020-04-26 09:42:16 INFO [Server.main] Skipping All Packets in Window:  false
+2020-04-26 09:42:16 INFO [Server.UDP] Sstarting Server on Port: 2015
+2020-04-26 09:42:42 INFO [Server.UDP] Received   <----- REQ packet for file: readme.txt
+2020-04-26 09:42:42 INFO [Server.UDP] Established connection with: /127.0.0.1, Port:49609
+2020-04-26 09:42:42 INFO [Server.Sender] Sending File: readme.txt, Size: 223(bytes)
+2020-04-26 09:43:12 INFO Log started for: Client.Main
+2020-04-26 09:43:12 INFO [Client.Main] Receiver started
+2020-04-26 09:45:05 INFO Log started for: Client.Main
+2020-04-26 09:45:05 INFO [Client.Main] Receiver started
+2020-04-26 09:45:05 INFO [Client.Receiver] Sending   -----> REQ packet for file: Readme.txt
+2020-04-26 09:45:06 INFO [Client.Receiver] Receive timeout
+2020-04-26 09:45:07 INFO [Client.Receiver] Receive timeout
+2020-04-26 09:45:08 INFO [Client.Receiver] Receive timeout
+2020-04-26 09:45:09 INFO [Client.Receiver] Receive timeout
+2020-04-26 09:45:10 INFO [Client.Receiver] Receive timeout
+2020-04-26 09:45:11 INFO [Client.Receiver] Receive timeout
+2020-04-26 09:45:12 INFO [Client.Receiver] Receive timeout
+2020-04-26 09:45:13 INFO [Client.Receiver] Receive timeout
+2020-04-26 09:45:22 INFO Log started for: Server.main
+2020-04-26 09:45:22 INFO [Server.main] Starting
+2020-04-26 09:45:22 INFO [Server.main] Skipping First Packet in Window: false
+2020-04-26 09:45:22 INFO [Server.main] Skipping All Packets in Window:  false
+2020-04-26 09:45:22 INFO [Server.UDP] Sstarting Server on Port: 2015
+2020-04-26 09:46:32 INFO [Server.UDP] Received   <----- REQ packet for file: Readme.txt
+2020-04-26 09:46:32 INFO [Server.UDP] Established connection with: /127.0.0.1, Port:53899
+2020-04-26 09:46:32 INFO [Server.Sender] Sending File: Readme.txt, Size: 223(bytes)
+2020-04-26 09:48:12 INFO Log started for: Server.main
+2020-04-26 09:48:12 INFO [Server.main] Starting
+2020-04-26 09:48:12 INFO [Server.main] Skipping First Packet in Window: false
+2020-04-26 09:48:12 INFO [Server.main] Skipping All Packets in Window:  false
+2020-04-26 09:48:12 INFO [Server.UDP] Sstarting Server on Port: 2015
+2020-04-26 09:48:40 INFO [Server.UDP] Received   <----- REQ packet for file: readme.txt
+2020-04-26 09:48:40 INFO [Server.UDP] Established connection with: /127.0.0.1, Port:60022
+2020-04-26 09:48:40 INFO [Server.Sender] Sending File: readme.txt, Size: 223(bytes)
+2020-04-26 14:20:28 INFO Log started for: Server.main
+2020-04-26 14:20:28 INFO [Server.main] Starting
+2020-04-26 14:20:28 INFO [Server.main] Skipping First Packet in Window: false
+2020-04-26 14:20:28 INFO [Server.main] Skipping All Packets in Window:  false
+2020-04-26 14:20:28 INFO [Server.UDP] Sstarting Server on Port: 2015
+2020-04-26 14:21:06 INFO [Server.UDP] Received   <----- REQ packet for file: Readme.txt
+2020-04-26 14:21:06 INFO [Server.UDP] Established connection with: /127.0.0.1, Port:65202
+2020-04-26 14:21:06 INFO [Server.Sender] Sending File: Readme.txt, Size: 223(bytes)
+2020-04-26 14:22:27 INFO Log started for: Server.main
+2020-04-26 14:22:28 INFO [Server.main] Starting
+2020-04-26 14:22:28 INFO [Server.main] Skipping First Packet in Window: false
+2020-04-26 14:22:28 INFO [Server.main] Skipping All Packets in Window:  false
+2020-04-26 14:22:28 INFO [Server.UDP] Sstarting Server on Port: 2015
+2020-04-26 14:22:48 INFO [Server.UDP] Received   <----- REQ packet for file: Readme.txt
+2020-04-26 14:22:48 INFO [Server.UDP] Established connection with: /127.0.0.1, Port:62995
+2020-04-26 14:22:48 INFO [Server.Sender] Sending File: Readme.txt, Size: 223(bytes)
+2020-04-26 14:35:52 INFO Log started for: Server.main
+2020-04-26 14:35:52 INFO [Server.main] Starting
+2020-04-26 14:35:52 INFO [Server.main] Skipping First Packet in Window: false
+2020-04-26 14:35:52 INFO [Server.main] Skipping All Packets in Window:  false
+2020-04-26 14:35:52 INFO [Server.UDP] Sstarting Server on Port: 2015
+2020-04-26 14:36:19 INFO [Server.UDP] Received   <----- REQ packet for file: Readme.txt
+2020-04-26 14:36:19 INFO [Server.UDP] Established connection with: /127.0.0.1, Port:56533
+2020-04-26 14:36:19 INFO [Server.Sender] Sending File: Readme.txt, Size: 223(bytes)
+2020-04-26 14:37:54 INFO Log started for: Client.Main
+2020-04-26 14:37:54 INFO [Client.Main] Receiver started
+2020-04-26 14:37:54 INFO [Client.Receiver] Sending   -----> REQ packet for file: readme.txt
+2020-04-26 14:37:55 INFO [Client.Receiver] Receive timeout
+2020-04-26 14:37:56 INFO [Client.Receiver] Receive timeout
+2020-04-26 14:37:57 INFO [Client.Receiver] Receive timeout
+2020-04-26 14:37:58 INFO [Client.Receiver] Receive timeout
+2020-04-26 14:37:59 INFO [Client.Receiver] Receive timeout
+2020-04-26 14:38:00 INFO [Client.Receiver] Receive timeout
+2020-04-26 14:38:01 INFO [Client.Receiver] Receive timeout
+2020-04-26 14:38:02 INFO [Client.Receiver] Receive timeout
+2020-04-26 14:38:03 INFO [Client.Receiver] Receive timeout
+2020-04-26 14:38:04 INFO [Client.Receiver] Receive timeout
+2020-04-26 14:38:05 INFO [Client.Receiver] Receive timeout
+2020-04-26 14:38:06 INFO [Client.Receiver] Receive timeout
+2020-04-26 14:38:07 INFO [Client.Receiver] Receive timeout
+2020-04-26 14:38:08 INFO [Client.Receiver] Receive timeout
+2020-04-26 14:38:09 INFO [Client.Receiver] Receive timeout
+2020-04-26 14:38:10 INFO [Client.Receiver] Receive timeout
+2020-04-26 14:38:11 INFO [Client.Receiver] Receive timeout
+2020-04-26 14:38:12 INFO [Client.Receiver] Receive timeout
+2020-04-26 14:38:13 INFO [Client.Receiver] Receive timeout
+2020-04-26 14:38:14 INFO [Client.Receiver] Receive timeout
+2020-04-26 14:38:15 INFO [Client.Receiver] Receive timeout
+2020-04-26 14:38:16 INFO [Client.Receiver] Receive timeout
+2020-04-26 14:38:17 INFO [Client.Receiver] Receive timeout
+2020-04-26 14:38:18 INFO [Client.Receiver] Receive timeout
+2020-04-26 14:44:52 INFO Log started for: Server.main
+2020-04-26 14:44:52 INFO [Server.main] Starting
+2020-04-26 14:44:52 INFO [Server.main] Skipping First Packet in Window: false
+2020-04-26 14:44:52 INFO [Server.main] Skipping All Packets in Window:  false
+2020-04-26 14:44:52 INFO [Server.UDP] Sstarting Server on Port: 2015
+2020-04-26 14:45:24 INFO [Server.UDP] Received   <----- REQ packet for file: Readme.txt
+2020-04-26 14:45:24 INFO [Server.UDP] Established connection with: /127.0.0.1, Port:54153
+2020-04-26 14:45:24 INFO [Server.Sender] Sending File: Readme.txt, Size: 223(bytes)
+2020-04-26 14:45:24 INFO [Server.UDP] Sending   -----> DAT packet seqNo: 0, containing 16(bytes) of the file.
+2020-04-26 14:45:24 INFO [Server.UDP] Sending   -----> DAT packet seqNo: 1, containing 16(bytes) of the file.
+2020-04-26 14:45:24 INFO [Server.UDP] Sending   -----> DAT packet seqNo: 2, containing 16(bytes) of the file.
+2020-04-26 14:45:24 INFO [Server.UDP] Received   <----- ACK packet for sequence number: 0
+2020-04-26 14:45:24 INFO [Server.UDP] Sending   -----> DAT packet seqNo: 3, containing 16(bytes) of the file.
+2020-04-26 14:45:24 INFO [Server.UDP] Received   <----- ACK packet for sequence number: 1
+2020-04-26 14:45:24 INFO [Server.UDP] Sending   -----> DAT packet seqNo: 0, containing 16(bytes) of the file.
+2020-04-26 14:45:24 INFO [Server.UDP] Received   <----- ACK packet for sequence number: 2
+2020-04-26 14:45:24 INFO [Server.UDP] Sending   -----> DAT packet seqNo: 1, containing 16(bytes) of the file.
+2020-04-26 14:45:24 INFO [Server.UDP] Received   <----- ACK packet for sequence number: 3
+2020-04-26 14:45:24 INFO [Server.UDP] Sending   -----> DAT packet seqNo: 2, containing 16(bytes) of the file.
+2020-04-26 14:45:24 INFO [Server.UDP] Received   <----- ACK packet for sequence number: 0
+2020-04-26 14:45:24 INFO [Server.UDP] Sending   -----> DAT packet seqNo: 3, containing 16(bytes) of the file.
+2020-04-26 14:45:24 INFO [Server.UDP] Received   <----- ACK packet for sequence number: 1
+2020-04-26 14:45:24 INFO [Server.UDP] Sending   -----> DAT packet seqNo: 0, containing 16(bytes) of the file.
+2020-04-26 14:45:24 INFO [Server.UDP] Received   <----- ACK packet for sequence number: 2
+2020-04-26 14:45:24 INFO [Server.UDP] Sending   -----> DAT packet seqNo: 1, containing 16(bytes) of the file.
+2020-04-26 14:45:24 INFO [Server.UDP] Received   <----- ACK packet for sequence number: 3
+2020-04-26 14:45:24 INFO [Server.UDP] Sending   -----> DAT packet seqNo: 2, containing 16(bytes) of the file.
+2020-04-26 14:45:24 INFO [Server.UDP] Received   <----- ACK packet for sequence number: 0
+2020-04-26 14:45:24 INFO [Server.UDP] Sending   -----> DAT packet seqNo: 3, containing 16(bytes) of the file.
+2020-04-26 14:45:24 INFO [Server.UDP] Received   <----- ACK packet for sequence number: 1
+2020-04-26 14:45:24 INFO [Server.UDP] Sending   -----> DAT packet seqNo: 0, containing 16(bytes) of the file.
+2020-04-26 14:45:24 INFO [Server.UDP] Received   <----- ACK packet for sequence number: 2
+2020-04-26 14:45:24 INFO [Server.UDP] Sending   -----> DAT packet seqNo: 1, containing 15(bytes) of the file.
+2020-04-26 14:45:24 INFO [Server.UDP] Received   <----- ACK packet for sequence number: 3
+2020-04-26 14:45:24 INFO [Server.UDP] Sending   -----> EOT packet 
+2020-04-26 14:45:24 INFO [Server.UDP] Received   <----- ACK packet for sequence number: 0
+2020-04-26 14:45:24 INFO [Server.UDP] Received   <----- ACK packet for sequence number: 1
+2020-04-26 14:45:24 INFO [Server.UDP] Received   <----- ACK packet for sequence number: 2
+2020-04-26 14:45:24 INFO [Server.Sender] File sent. 223(bytes)
+2020-04-26 14:45:24 INFO [Server.PacketManager] Packet Manager:
+2020-04-26 14:45:24 INFO [Server.PacketManager]     Expected Number of Sent Packets:       15
+2020-04-26 14:45:24 INFO [Server.PacketManager]     Number of packets Resent:               0
+2020-04-26 14:45:24 INFO [Server.PacketManager]     Breakdown:
+2020-04-26 14:45:24 INFO [Server.PacketManager]         Number of ACK Packets:              0
+2020-04-26 14:45:24 INFO [Server.PacketManager]         Number of REQ Packets:              0
+2020-04-26 14:45:24 INFO [Server.PacketManager]         Number of DAT Packets:             14
+2020-04-26 14:45:24 INFO [Server.PacketManager]         Number of ERR Packets:              0
+2020-04-26 14:45:24 INFO [Server.PacketManager]         Number of EOT Packets:              1
+2020-04-26 14:45:24 INFO [Server.PacketManager]     Total Number of Packets Sent:          15
+2020-04-26 14:45:24 INFO [Server.PacketManager] 
+2020-04-26 14:45:24 INFO [Server.PacketManager]     Number of ACKs received:               15
+2020-04-26 14:45:24 INFO [Server.PacketManager]     Number of unexpected ACKs received:     0
+2020-04-26 14:45:24 INFO [Server.PacketManager] 
+2020-04-26 14:45:24 INFO [Server.UDP]     Total Data:                           223
+2020-04-26 14:45:24 INFO [Server.UDP]     Total Data Including Packet Headers:  403
+2020-04-26 18:49:50 INFO Log started for: Server.main
+2020-04-26 18:49:50 INFO [Server.main] Starting
+2020-04-26 18:49:50 INFO [Server.main] Skipping First Packet in Window: false
+2020-04-26 18:49:50 INFO [Server.main] Skipping All Packets in Window:  false
+2020-04-26 18:49:50 INFO [Server.UDP] Sstarting Server on Port: 2015
+2020-04-26 18:51:07 INFO Log started for: Server.main
+2020-04-26 18:51:07 INFO [Server.main] Starting
+2020-04-26 18:51:07 INFO [Server.main] Skipping First Packet in Window: false
+2020-04-26 18:51:07 INFO [Server.main] Skipping All Packets in Window:  false
+2020-04-26 18:51:07 INFO [Server.UDP] Sstarting Server on Port: 2015
+2020-04-26 18:51:51 INFO [Server.UDP] Received   <----- REQ packet for file: Readme.txt
+2020-04-26 18:51:51 INFO [Server.UDP] Established connection with: /127.0.0.1, Port:57721
+2020-04-26 18:51:51 INFO [Server.Sender] Sending File: Readme.txt, Size: 223(bytes)
+2020-04-26 18:51:51 INFO [Server.UDP] Sending   -----> DAT packet seqNo: 0, containing 16(bytes) of the file.
+2020-04-26 18:51:51 INFO [Server.UDP] Sending   -----> DAT packet seqNo: 1, containing 16(bytes) of the file.
+2020-04-26 18:51:51 INFO [Server.UDP] Sending   -----> DAT packet seqNo: 2, containing 16(bytes) of the file.
+2020-04-26 18:51:51 INFO [Server.UDP] Received   <----- ACK packet for sequence number: 0
+2020-04-26 18:51:51 INFO [Server.UDP] Sending   -----> DAT packet seqNo: 3, containing 16(bytes) of the file.
+2020-04-26 18:51:51 INFO [Server.UDP] Received   <----- ACK packet for sequence number: 1
+2020-04-26 18:51:51 INFO [Server.UDP] Sending   -----> DAT packet seqNo: 0, containing 16(bytes) of the file.
+2020-04-26 18:51:51 INFO [Server.UDP] Received   <----- ACK packet for sequence number: 2
+2020-04-26 18:51:51 INFO [Server.UDP] Sending   -----> DAT packet seqNo: 1, containing 16(bytes) of the file.
+2020-04-26 18:51:51 INFO [Server.UDP] Received   <----- ACK packet for sequence number: 3
+2020-04-26 18:51:51 INFO [Server.UDP] Sending   -----> DAT packet seqNo: 2, containing 16(bytes) of the file.
+2020-04-26 18:51:51 INFO [Server.UDP] Received   <----- ACK packet for sequence number: 0
+2020-04-26 18:51:51 INFO [Server.UDP] Sending   -----> DAT packet seqNo: 3, containing 16(bytes) of the file.
+2020-04-26 18:51:51 INFO [Server.UDP] Received   <----- ACK packet for sequence number: 1
+2020-04-26 18:51:51 INFO [Server.UDP] Sending   -----> DAT packet seqNo: 0, containing 16(bytes) of the file.
+2020-04-26 18:51:51 INFO [Server.UDP] Received   <----- ACK packet for sequence number: 2
+2020-04-26 18:51:51 INFO [Server.UDP] Sending   -----> DAT packet seqNo: 1, containing 16(bytes) of the file.
+2020-04-26 18:51:51 INFO [Server.UDP] Received   <----- ACK packet for sequence number: 3
+2020-04-26 18:51:51 INFO [Server.UDP] Sending   -----> DAT packet seqNo: 2, containing 16(bytes) of the file.
+2020-04-26 18:51:51 INFO [Server.UDP] Received   <----- ACK packet for sequence number: 0
+2020-04-26 18:51:51 INFO [Server.UDP] Sending   -----> DAT packet seqNo: 3, containing 16(bytes) of the file.
+2020-04-26 18:51:51 INFO [Server.UDP] Received   <----- ACK packet for sequence number: 1
+2020-04-26 18:51:51 INFO [Server.UDP] Sending   -----> DAT packet seqNo: 0, containing 16(bytes) of the file.
+2020-04-26 18:51:51 INFO [Server.UDP] Received   <----- ACK packet for sequence number: 2
+2020-04-26 18:51:51 INFO [Server.UDP] Sending   -----> DAT packet seqNo: 1, containing 15(bytes) of the file.
+2020-04-26 18:51:51 INFO [Server.UDP] Received   <----- ACK packet for sequence number: 3
+2020-04-26 18:51:51 INFO [Server.UDP] Sending   -----> EOT packet 
+2020-04-26 18:51:51 INFO [Server.UDP] Received   <----- ACK packet for sequence number: 0
+2020-04-26 18:51:51 INFO [Server.UDP] Received   <----- ACK packet for sequence number: 1
+2020-04-26 18:51:51 INFO [Server.UDP] Received   <----- ACK packet for sequence number: 2
+2020-04-26 18:51:51 INFO [Server.Sender] File sent. 223(bytes)
